@@ -2,6 +2,7 @@
 
 ![AI Banner](https://source.unsplash.com/1600x500/?artificial-intelligence,technology)
 
+
 > 🚀 "Turning data into decisions with AI and Machine Learning."  
 > Inspired by the limitless possibilities of AI, I’m diving deep into creating intelligent systems that make sense of the world.
 
