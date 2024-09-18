@@ -1,7 +1,5 @@
 # 🌐 Swan Pyae Sone | AI Enthusiast | Machine Learning Developer 
 
-![AI Banner](https://source.unsplash.com/1600x500/?artificial-intelligence,technology)
-
 ### 🚀 Welcome to My AI World!
 
 I’m **Swan Pyae Sone**, a passionate developer diving deep into the endless possibilities of **AI** and **Machine Learning**. My mission is to blend cutting-edge technologies with real-world applications—building intelligent systems, crafting beautiful web experiences, and automating processes for maximum impact.  
