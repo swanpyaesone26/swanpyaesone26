@@ -1,5 +1,7 @@
 # 🌐 Swan Pyae Sone | AI Enthusiast | Machine Learning Developer 
 
+
+
 ### 🚀 Welcome to My AI World!
 
 I’m **Swan Pyae Sone**, a passionate developer diving deep into the endless possibilities of **AI** and **Machine Learning**. My mission is to blend cutting-edge technologies with real-world applications—building intelligent systems, crafting beautiful web experiences, and automating processes for maximum impact.  
@@ -13,7 +15,7 @@ I’m **Swan Pyae Sone**, a passionate developer diving deep into the endless po
 - 🔬 **Current Focus**: Machine Learning, Finance Models, and Algorithmic Trading
 - 🌱 **Learning**: Deep Reinforcement Learning, Neural Networks, and Advanced AI Frameworks
 - 💡 **Passion Projects**: Travel Agency Website, AI-based Finance Tools
-- 📫 **Reach Me**: [LinkedIn](www.linkedin.com/in/swan-pyae-sone-48755429b)
+- 📫 **Reach Me**: [LinkedIn](https://www.linkedin.com/in/swan-pyae-sone-48755429b)
 
 ---
 
@@ -36,7 +38,6 @@ I’m comfortable with these cutting-edge tools, frameworks, and programming lan
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-
 ---
 
 ### 💡 AI Vision & Goals
@@ -55,7 +56,7 @@ I believe **Artificial Intelligence** will redefine how we live, work, and innov
 
 I’m always excited to meet like-minded AI enthusiasts! Feel free to connect:
 
-[![LinkedIn](www.linkedin.com/in/swan-pyae-sone-48755429b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/swan-pyae-sone-48755429b)
 
 ---
 
