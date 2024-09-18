@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👾 Swan Pyae Sone | AI Enthusiast | Machine Learning Developer
 
-<!--
-**swanpyaesone26/swanpyaesone26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![AI Banner](https://source.unsplash.com/1600x500/?artificial-intelligence,technology)
 
-Here are some ideas to get you started:
+> 🚀 "Turning data into decisions with AI and Machine Learning."  
+> Inspired by the limitless possibilities of AI, I’m diving deep into creating intelligent systems that make sense of the world.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 What I’m Working On
+- 🔬 Building AI models and algorithms for finance, trading, and risk management.
+- 🌐 Web development with Django and PostgreSQL, currently focused on a Travel Agency website.
+
+### 🔥 My Projects
+- [Travel Agency Website](https://github.com/swanpyaesone26/Travel-Agency-Website) - A dynamic website built using Django and PostgreSQL.
+- [AI Stock Predictor](#) - A machine learning model that predicts stock market trends based on past data.
+- [Algorithms in Python](https://github.com/swanpyaesone26/Algorithms-of-Box-and-Wisker-Plot) - My collection of CS algorithm implementations.
+
+### ⚡ Tech Stack
+- **Languages**: Python, C++, HTML, CSS, JavaScript
+- **Frameworks**: Django, Flask, TensorFlow, Keras
+- **Tools**: Git, Docker, Postman
+- **Databases**: PostgreSQL, MySQL, SQLite
+
+### 🔮 AI & Machine Learning Interests
+- Neural Networks 🧠
+- Reinforcement Learning 🔄
+- Data Science and Analytics 📊
+
+---
+_Connect with me!_  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/swan-pyae-sone-4875429b)
