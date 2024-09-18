@@ -55,7 +55,7 @@ I believe **Artificial Intelligence** will redefine how we live, work, and innov
 
 I’m always excited to meet like-minded AI enthusiasts! Feel free to connect:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/swan-pyae-sone-4875429b)
+[![LinkedIn](www.linkedin.com/in/swan-pyae-sone-48755429b)
 
 ---
 
