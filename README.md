@@ -13,7 +13,7 @@ I’m **Swan Pyae Sone**, a passionate developer diving deep into the endless po
 - 🔬 **Current Focus**: Machine Learning, Finance Models, and Algorithmic Trading
 - 🌱 **Learning**: Deep Reinforcement Learning, Neural Networks, and Advanced AI Frameworks
 - 💡 **Passion Projects**: Travel Agency Website, AI-based Finance Tools
-- 📫 **Reach Me**: [LinkedIn](https://linkedin.com/in/swan-pyae-sone-4875429b)
+- 📫 **Reach Me**: [LinkedIn](www.linkedin.com/in/swan-pyae-sone-48755429b)
 
 ---
 
