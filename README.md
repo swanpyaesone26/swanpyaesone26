@@ -1,6 +1,9 @@
 # 👾 Swan Pyae Sone | AI Enthusiast | Machine Learning Developer
 
 ![AI Banner](https://source.unsplash.com/1600x500/?artificial-intelligence,technology)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
 
 
 > 🚀 "Turning data into decisions with AI and Machine Learning."  
@@ -16,7 +19,7 @@
 - [Algorithms in Python](https://github.com/swanpyaesone26/Algorithms-of-Box-and-Wisker-Plot) - My collection of CS algorithm implementations.
 
 ### ⚡ Tech Stack
-- **Languages**: Python, C++, HTML, CSS, JavaScript
+- **Languages**: Python, C++, C#, HTML, CSS
 - **Frameworks**: Django, Flask, TensorFlow, Keras
 - **Tools**: Git, Docker, Postman
 - **Databases**: PostgreSQL, MySQL, SQLite
