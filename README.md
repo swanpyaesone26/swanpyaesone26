@@ -2,10 +2,6 @@
 
 
 
-![AI Gif](https://media.giphy.com/media/3o7btNRTxQ6y9i5GWw/giphy.gif)
-
-
-
 
 > 🚀 "Turning data into decisions with AI and Machine Learning."  
 > Inspired by the limitless possibilities of AI, I’m diving deep into creating intelligent systems that make sense of the world.
