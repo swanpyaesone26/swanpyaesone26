@@ -1,8 +1,9 @@
 # 👾 Swan Pyae Sone | AI Enthusiast | Machine Learning Developer
 
-![AI Banner](https://source.unsplash.com/1600x500/?artificial-intelligence,technology)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![AI Banner]([https://source.unsplash.com/1600x500/?artificial-intelligence,technology)](https://files.oaiusercontent.com/file-eMVOYDjpfGNGHihEQ7c0xOe1?se=2024-09-18T15%3A44%3A31Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D6b80d8f8-2760-4fd4-a084-c3395cbba0f0.webp&sig=5RktMiQ4%2B6ivDT46F/LTTQb3RUr60be1pfaS23XjXDI%3D)
+
+![AI Gif](https://media.giphy.com/media/3o7btNRTxQ6y9i5GWw/giphy.gif)
+
 
 
 
