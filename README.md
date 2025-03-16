@@ -44,7 +44,7 @@ I’m comfortable with these cutting-edge tools, frameworks, and programming lan
 
 I believe **Artificial Intelligence** will redefine how we live, work, and innovate. Here are my personal ambitions:
 
-- **2024 Goal**: Contribute to an open-source AI project.
+
 - **AI Focus Areas**: 
   - Reinforcement Learning
   - AI in Finance & Trading
