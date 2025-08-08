@@ -1,4 +1,4 @@
-# 🌐 Swan Pyae Sone | AI Enthusiast | Machine Learning Developer 
+# 🌐 Swan Pyae Sone | Full Stack AI Developer 
 
 
 
