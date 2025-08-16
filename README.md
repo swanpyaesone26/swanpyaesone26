@@ -12,7 +12,7 @@ I’m **Swan Pyae Sone**, a passionate developer diving deep into the endless po
 ---
 
 ### ⚡ Key Stats
-- 🔬 **Current Focus**: Machine Learning, Finance Models, and Algorithmic Trading
+- 🔬 **Current Focus**: Machine Learning, Fine Tuning Models, and AI Agents
 - 🌱 **Learning**: Deep Reinforcement Learning, Neural Networks, and Advanced AI Frameworks
 - 💡 **Passion Projects**: Travel Agency Website, AI-based Finance Tools
 - 📫 **Reach Me**: [LinkedIn](https://www.linkedin.com/in/swan-pyae-sone-48755429b)
@@ -46,9 +46,9 @@ I believe **Artificial Intelligence** will redefine how we live, work, and innov
 
 
 - **AI Focus Areas**: 
-  - Reinforcement Learning
-  - AI in Finance & Trading
-  - Natural Language Processing (NLP)
+  - Machine Translation and Natural Language Processing(NLP)
+  - AI Agents
+  - Web Development
 
 ---
 
@@ -60,28 +60,5 @@ I’m always excited to meet like-minded AI enthusiasts! Feel free to connect:
 
 ---
 
-### 📊 GitHub Stats
-
-Here’s a quick glimpse at my contributions:
-
-![Swan's GitHub stats](https://github-readme-stats.vercel.app/api?username=swanpyaesone26&show_icons=true&theme=radical)
-
----
-
-### 🔥 GitHub Streak
-
-Want to see how consistent I am? Check this out:
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=swanpyaesone26&theme=radical)
-
----
-
-### 🏆 GitHub Trophies
-
-Finally, here’s how I’m leveling up on GitHub:
-
-![trophy](https://github-profile-trophy.vercel.app/?username=swanpyaesone26&theme=radical)
-
----
 
 🚀 _Keep coding, keep pushing boundaries, and together, let’s unlock the full potential of AI._
