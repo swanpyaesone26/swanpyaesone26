@@ -1,8 +1,8 @@
-# 🌐 Swan Pyae Sone | Full Stack AI Developer 
+# Swan Pyae Sone | AI Developer 
 
 
 
-### 🚀 Welcome to My AI World!
+### 🚀 Hello World!
 
 I’m **Swan Pyae Sone**, a passionate developer diving deep into the endless possibilities of **AI** and **Machine Learning**. My mission is to blend cutting-edge technologies with real-world applications—building intelligent systems, crafting beautiful web experiences, and automating processes for maximum impact.  
 
