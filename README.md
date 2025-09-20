@@ -1,64 +1,29 @@
-# Swan Pyae Sone | AI Developer 
+# 👋 Hi, I'm Swan Pyae Sone
 
-
-
-### 🚀 Hello World!
-
-I’m **Swan Pyae Sone**, a passionate developer diving deep into the endless possibilities of **AI** and **Machine Learning**. My mission is to blend cutting-edge technologies with real-world applications—building intelligent systems, crafting beautiful web experiences, and automating processes for maximum impact.  
-
-> "AI is not just a tool; it's a partner to push human potential to its limits."  
-> - **Swan**
+Welcome to my GitHub profile!  
+I'm a developer passionate about building impactful web applications and exploring the frontiers of machine learning and AI agents.
 
 ---
 
-### ⚡ Key Stats
-- 🔬 **Current Focus**: Machine Learning, Fine Tuning Models, and AI Agents
-- 🌱 **Learning**: Deep Reinforcement Learning, Neural Networks, and Advanced AI Frameworks
-- 💡 **Passion Projects**: Travel Agency Website, AI-based Finance Tools
-- 📫 **Reach Me**: [LinkedIn](https://www.linkedin.com/in/swan-pyae-sone-48755429b)
+## 🛠️ Skills & Technologies
+- **Languages & Frameworks:** Python, Django, React (TypeScript)
+- **APIs & Databases:** REST API, PostgreSQL
+- **DevOps:** Docker
+- **Project Management:** Experienced in leading and organizing software projects
 
 ---
 
-### 🧠 AI & ML Projects
-Here’s what I’m working on to push the boundaries of **AI**:
-
-| 🔥 **Project**  | 💡 **Description**  |  🌟 **Tech** |
-|:-------------:|:-------------------:|:-----------:|
-| [🌐 Travel Agency Website](https://github.com/swanpyaesone26/Travel-Agency-Website) | Django-based web application for dynamic travel booking. | HTML, CSS, Django, PostgreSQL |
-| **AI Stock Predictor** (coming soon) | AI that predicts stock market trends based on historical data. | Python, TensorFlow, Keras |
-| [🧮 Algorithms in Python](https://github.com/swanpyaesone26/Algorithms-of-Box-and-Wisker-Plot) | A collection of algorithms, including AI models and statistical tools. | Python |
+## 🚀 What I'm Working On
+I'm deeply interested in machine learning and AI agent projects.  
+Recently, I developed a **Project Manager** as part of my final year project—a university social media platform—showcasing my skills in full-stack development and project leadership.
 
 ---
 
-### 🚀 My Tech Toolbox
-I’m comfortable with these cutting-edge tools, frameworks, and programming languages. I’m constantly experimenting with more!
+## 📫 Connect with Me
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+- [LinkedIn](https://www.linkedin.com/in/swanpyaesone26)  
+- Email: swanpyaesone26@gmail.com
 
----
-
-### 💡 AI Vision & Goals
-
-I believe **Artificial Intelligence** will redefine how we live, work, and innovate. Here are my personal ambitions:
-
-
-- **AI Focus Areas**: 
-  - Machine Translation and Natural Language Processing(NLP)
-  - AI Agents
-  - Web Development
+Feel free to reach out for collaboration, networking, or just to say hi!
 
 ---
-
-### 🌐 Get In Touch
-
-I’m always excited to meet like-minded AI enthusiasts! Feel free to connect:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/swan-pyae-sone-48755429b)
-
----
-
-
-🚀 _Keep coding, keep pushing boundaries, and together, let’s unlock the full potential of AI._
