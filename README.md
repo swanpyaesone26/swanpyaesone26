@@ -6,9 +6,9 @@ I'm a developer passionate about building impactful web applications and explori
 ---
 
 ## 🛠️ Skills & Technologies
-- **Languages & Frameworks:** Python, Django, React (TypeScript)
-- **APIs & Databases:** REST API, PostgreSQL
-- **DevOps:** Docker
+- **Languages & Frameworks:** Python,PHP, Django, Laravel, React (TypeScript)
+- **APIs & Databases:** REST API, PostgreSQL, MySQL
+- **DevOps:** Docker,Git/GitHub
 - **Project Management:** Experienced in leading and organizing software projects
 
 ---
