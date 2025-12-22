@@ -1,12 +1,11 @@
-# 👋 Hi, I'm Swan Pyae Sone
+#Hi, I'm Swan Pyae Sone
 
-Welcome to my GitHub profile!  
 I'm a developer passionate about building impactful web applications and exploring the frontiers of machine learning and AI agents.
 
 ---
 
 ## 🛠️ Skills & Technologies
-- **Languages & Frameworks:** Python,PHP, Django, Laravel, React (TypeScript)
+- **Languages & Frameworks:** Python,PHP, Django, Laravel, React (JavaScript/TypeScript)
 - **APIs & Databases:** REST API, PostgreSQL, MySQL
 - **DevOps:** Docker,Git/GitHub
 - **Project Management:** Experienced in leading and organizing software projects
