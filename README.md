@@ -5,16 +5,22 @@ I'm a developer passionate about building impactful web applications and explori
 ---
 
 ## 🛠️ Skills & Technologies
-- **Languages & Frameworks:** Python,PHP, Django, Laravel, React (JavaScript/TypeScript)
+- **Programming Language:** Python,PHP, JavaScript, TypeScript, Dart
+- **Web Framework :** Django, Laravel
+- **Mobile Framework:** Flutter
 - **APIs & Databases:** REST API, PostgreSQL, MySQL
-- **DevOps:** Docker,Git/GitHub
-- **Project Management:** Experienced in leading and organizing software projects
+- **Version Control:** Git/GitHub
+- **CI/CD:** GitHub Actions
+- **Infrastructure as Code:** Terraform, Ansible
+- **Containers & Container Orchestration:** Docker, Kubernetes
+- **Cloud & Hosting:** AWS
+- **Networking & Traffic Handling:** Nginx
+- **Project Management:** Experience managing software projects and tracking progress with Jira.
 
 ---
 
 ## 🚀 What I'm Working On
-I'm deeply interested in machine learning and AI agent projects.  
-Recently, I developed a **Project Manager** as part of my final year project—a university social media platform—showcasing my skills in full-stack development and project leadership.
+I am currently working on my final-year Computer Science project involving full-stack web and mobile application development, managing the entire process from system design to delivering a user-ready product to further sharpen my skills.
 
 ---
 
