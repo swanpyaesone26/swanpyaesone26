@@ -21,7 +21,9 @@ Recently, I developed a **Project Manager** as part of my final year project—a
 ## 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/swanpyaesone26)  
-- Email: swanpyaesone26@gmail.com
+
+<a href="mailto:swanpyaesone2626@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
 
 Feel free to reach out for collaboration, networking, or just to say hi!
 
