@@ -20,10 +20,8 @@ Recently, I developed a **Project Manager** as part of my final year project—a
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/swanpyaesone26)  
-
-<a href="mailto:swanpyaesone2626@gmail.com" target="_blank">
-<img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
+- [LinkedIn](www.linkedin.com/in/swan-pyae-sone-48755429b)  
+- Email : swanpyaesone2626@gmail.com
 
 Feel free to reach out for collaboration, networking, or just to say hi!
 
