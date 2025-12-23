@@ -6,7 +6,8 @@ I'm a developer passionate about building impactful web applications and explori
 
 ## 🛠️ Skills & Technologies
 - **Programming Language:** Python,PHP, JavaScript, TypeScript, Dart
-- **Web Framework :** Django, Laravel
+- **Frontend Framework:** ReactTS
+- **Backend Framework :** Django, Laravel
 - **Mobile Framework:** Flutter
 - **APIs & Databases:** REST API, PostgreSQL, MySQL
 - **Version Control:** Git/GitHub
@@ -15,6 +16,7 @@ I'm a developer passionate about building impactful web applications and explori
 - **Containers & Container Orchestration:** Docker, Kubernetes
 - **Cloud & Hosting:** AWS
 - **Networking & Traffic Handling:** Nginx
+- **Operation System:** Linux(Ubuntu)
 - **Project Management:** Experience managing software projects and tracking progress with Jira.
 
 ---
