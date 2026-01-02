@@ -20,7 +20,7 @@ Problem-solving developer building delivery-ready web and mobile apps, exploring
 - **Operation System:** Linux(Ubuntu)
 - **Project Management:** Experience managing software projects and tracking progress with Jira.
 
-- [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+- [![My Skills](https://skillicons.dev/icons?i=py,php,js,ts)](https://skillicons.dev)
 
 ---
 
