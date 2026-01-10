@@ -33,7 +33,7 @@ I am currently working on my final-year Computer Science project involving full-
 
 ## 📫 Connect with Me
 
-- [LinkedIn](www.linkedin.com/in/swan-pyae-sone-48755429b)  
+- [LinkedIn](https://www.linkedin.com/in/swan-pyae-sone-48755429b/)  
 - Email : swanpyaesone2626@gmail.com
 
 Feel free to reach out for collaboration, networking, or just to say hi!
