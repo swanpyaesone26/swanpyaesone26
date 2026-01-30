@@ -5,6 +5,7 @@ Problem-solving developer building delivery-ready web and mobile apps, exploring
 ---
 
 ## 🛠️ Skills & Technologies
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 - **Programming Language:** Python,PHP, JavaScript, TypeScript, Dart
 - **AI Framework:** Scikit-learn, TensorFlow, LangChain, LangGraph, Hugging Face
 - **Frontend Framework:** ReactTS
