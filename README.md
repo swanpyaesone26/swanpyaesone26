@@ -22,7 +22,7 @@ Problem-solving developer building delivery-ready web and mobile apps, exploring
 
 ## Overall
 
-[![My Skills](https://skillicons.dev/icons?i=py,php,js,ts,dart,sklearn,tensorflow,react,django,laravel,flutter,postgres,mysql,git,github,githubactions,terraform,ansible,docker,kubernetes,aws,nginx,ubuntu,stripe)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,php,js,ts,dart,sklearn,tensorflow,react,django,laravel,flutter,postgres,mysql,git,github,githubactions,ansible,docker,kubernetes,aws,nginx,ubuntu,stripe)](https://skillicons.dev)
 
 ---
 
