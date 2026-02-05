@@ -1,4 +1,4 @@
-# Hi, I'm Swan Pyae Sone
+# Hello!, I'm Swan Pyae Sone
 
 Problem-solving developer building delivery-ready web and mobile apps, exploring machine learning and AI agents.
 
