@@ -14,7 +14,7 @@ Problem-solving developer building delivery-ready web and mobile apps, exploring
 - **APIs & Databases:** REST API, PostgreSQL, MySQL
 - **Version Control:** Git/GitHub
 - **CI/CD:** GitHub Actions
-- **Containers & Container Orchestration:** Docker, Kubernetes
+- **Containers & Container Orchestration:** Docker
 - **Cloud & Hosting:** AWS
 - **Networking & Traffic Handling:** Nginx
 - **Operation System:** Linux(Ubuntu)
